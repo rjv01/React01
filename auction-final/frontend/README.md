@@ -28,22 +28,5 @@ Frontend (Web application):
 Database:
 - Mongodb
 
-Storage:
-- AWS S3 Bucket
-
-Hosting:
-- Heroku (server)
-- Netlify (client)
-
-## Screenshots:
-<p align="center">
-  <a href="https://online-auctions.netlify.app/">
-    <img width="600" src="./screenshots/home.jpg">
-  </a>
-</p>
-<br>
-<p align="center">
-  <a href="https://online-auctions.netlify.app/">
-    <img width="600" src="./screenshots/ad.jpg">
-  </a>
-</p>
+Deployment:
+-
